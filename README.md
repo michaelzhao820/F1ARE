@@ -1,7 +1,5 @@
 # F1ARE
 
-**f1 Project README**
-
 ## Overview
 The f1 project utilizes Swift and ARKit to bring the Australian Formula 1 track to life in augmented reality (AR). The project dynamically represents cars as dots on the track, integrating real-time data from the openF1 API to simulate their movement around the track.
 

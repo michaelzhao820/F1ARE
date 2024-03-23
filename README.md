@@ -35,10 +35,8 @@ Contributions to the project are welcome. If you'd like to contribute, feel free
 - Real-time data is fetched from the openF1 API (insert link to API).
 - The Australian Formula 1 track model is sourced from (insert source).
 
-## License
-This project is licensed under the [insert license type] license. See the LICENSE file for more details.
 
 ## Contact
-For any inquiries or support, feel free to contact [insert contact information].
+For any inquiries or support, feel free to contact Michael Zhao, Jake Qin, or Adwaith Kumar.
 
 **Happy racing! 🏎️🏁**

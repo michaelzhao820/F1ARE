@@ -6,13 +6,13 @@ The f1 project utilizes Swift and ARKit to bring the Australian Formula 1 track 
 ## Features
 - **Augmented Reality Representation:** The project leverages ARKit to overlay the Australian Formula 1 track onto the real world, providing an immersive experience.
 - **Real-time Data Integration:** Utilizing the openF1 API, the project fetches real-time data about the position and status of Formula 1 cars and integrates it into the AR simulation.
-- **Dynamic Movement Simulation:** Cars are represented as dots and are animated to move around the track in real-time according to the data received from the openF1 API.
+- **Dynamic Movement Simulation:** Cars are represented as dots and are animated to move around the track in real-time according to the data received from the OpenF1 API.
 
 ## Requirements
 - iOS device supporting ARKit
 - Xcode
 - Swift knowledge
-- Internet connection for real-time data fetching from the openF1 API
+- Internet connection for real-time data fetching from the OpenF1 API
 
 ## Installation
 1. Clone or download the repository to your local machine.
@@ -32,8 +32,7 @@ Contributions to the project are welcome. If you'd like to contribute, feel free
 
 ## Credits
 - This project is developed using Swift and ARKit.
-- Real-time data is fetched from the openF1 API (insert link to API).
-- The Australian Formula 1 track model is sourced from (insert source).
+- Real-time data is fetched from the OpenF1 API https://openf1.org/.
 
 
 ## Contact
